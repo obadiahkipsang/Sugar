@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="materialgray">#e0e0e0</color>
+    <color name="dietColor">#fff0dc</color>
+    <color name="exerColor">#ffe6e6</color>
+    <color name="medColor">#e2fefb</color>
+    <color name="white">#ffffff</color>
+    <color name="edittextunderline">#B07D4A</color>
+    <color name ="login_button_background">#B07D4A</color>
+    <color name ="bg_login">#FAF9F7</color>
+    <color name="bg_register">#2e3237</color>
+    <color name="bg_main">#428bca</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+    <color name="colorTextPrimary">#FFFFFF</color>
+    <color name="colorTextDisable">#66FFFFFF</color>
+    <color name="colorTab">#FFD54F</color>
+    <color name="bg_gradient_start">#31244e</color>
+    <color name="bg_gradient_end">#6b394c</color>
+    <color name="default_splash_color">#9c58b7</color>
+    <color name="default_splash_image_color">#ffffff</color>
+    <color name="proceed_disable">#DEDEDE</color>
+    <color name="proceed_enable">#72D63A</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="yellow">#FFC300</color>
+    <color name="yellowf">#80FFC300</color>
+    <color name="login_btn">#061af7</color>
+    <color name="orange">#FF8C00</color>
+    <color name="bgBottomNavigation">#fe485a</color>
+    <color name="dark_orange">#EE7600</color>
+    <color name="color_home">#009688</color>
+    <color name="color_search">#2196F3</color>
+    <color name="color_notifications">#9C27B0</color>
+    <color name="blue">#3A66A7</color>
+    <color name="grey">#d3d3d3</color>
+    <color name="black">#000000</color>
+    <color name="fpage">#ea02f2</color>
+    <color name="secpage">#02f2c2</color>
+    <color name="sevenpage">#f22e02</color>
+    <color name="myTextviewColor">#3A66A7</color>
+    <color name="myFabColor">#3A66A7</color>
+    <color name="grey_1">#F6FBFF</color>
+    <color name="grey_2">#EEEEEE</color>
+    <color name="grey_3">#F5F5F5</color>
+    <color name="grey_4">#424242</color>
+    <color name="grey_5">#757575</color>
+
+    <color name="pink">#F48FB1</color>
+    <color name="indigo">#3F51B5</color>
+    <color name="red">#ef5350</color>
+
+    <color name="first_slide_background">#E91E63</color>
+    <color name="first_slide_buttons">#880E4F</color>
+
+    <color name="second_slide_background">#9C27B0</color>
+    <color name="second_slide_buttons">#4A148C</color>
+
+    <color name="third_slide_background">#009688</color>
+    <color name="third_slide_buttons">#004D40</color>
+
+    <color name="fourth_slide_background">#795548</color>
+    <color name="fourth_slide_buttons">#3E2723</color>
+
+    <color name="custom_slide_background">#3F51B5</color>
+    <color name="custom_slide_buttons">#1A237E</color>
+
+
+    <color name="feed_bg">#d3d6db</color>
+    <color name="feed_item_bg">#ffffff</color>
+    <color name="feed_item_border">#c2c3c8</color>
+    <color name="link">#0a80d1</color>
+    <color name="timestamp">#a0a3a7</color>
+
+
+    <color name="primary">#4CAF50</color>
+    <color name="primary_dark">#388E3C</color>
+    <color name="primary_light">#388E3C</color>
+    <color name="secondary">#2196F3</color>
+    <color name="secondary_dark">#1976D2</color>
+    <color name="secondary_light">#69a9e9</color>
+    <color name="accent">@color/primary</color>
+    <color name="accent_ripple">@color/primary_light</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="placeholder_text">#b5b5b5</color>
+    <color name="divider">#eeeeee</color>
+    <color name="fab_add_expense">#F44336</color>
+    <color name="fab_add_expense_pressed">#EF5350</color>
+    <color name="fab_add_monthly_expense">@color/secondary</color>
+    <color name="fab_add_monthly_expense_pressed">@color/secondary_light</color>
+    <color name="text_color">#7f8c8d</color>
+    <color name="placeholder_background">#f0f0f0</color>
+    <color name="calendar_cell_selected">@color/primary_light</color>
+    <color name="calendar_cell_disabled_text_color">#eeeeee</color>
+    <color name="budget_green">#4CAF50</color>
+    <color name="budget_green_out">#7ed281</color>
+    <color name="budget_orange">#FF9800</color>
+    <color name="budget_red">#F44336</color>
+    <color name="budget_red_out">#f17970</color>
+    <color name="snackbar_action_undo">#4caf50</color>
+    <color name="premium_background">@color/primary</color>
+    <color name="monthly_report_disabled_month_button">@color/primary</color>
+    <color name="monthly_report_hint_background">#DD000000</color>
+    <color name="dot_dark_screen5">#e7922a</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#757575</color>
+    <color name="colorIcons">#FFFFFF</color>
+    <color name="colorDivider">#BDBDBD</color>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#4CAF50</color>
+    <color name="colorAccent">#4CAF50</color>
+    <color name="PrimaryColor">#2196F3</color>
+    <color name="PrimaryDarkColor">#1976D2</color>
+    <color name="indicator">#ecd95a</color>
+    <!-- Screens background color-->
+
+    <color name="colorPrimarys">#3F51B5</color>
+    <color name="colorPrimaryDarks">#303F9F</color>
+    <color name="colorAccents">#FF4081</color>
+
+    <color name="bg_screen1">#f64c73</color>
+    <color name="navy_blue">#173C70</color>
+    <color name="bg_screen2">#20d2bb</color>
+    <color name="bg_screen3">#3395ff</color>
+    <color name="bg_screen4">#c873f4</color>
+    <color name="dark_red">#CE0902</color>
+    <color name="dot_light_screen5">#e7922a</color>
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#d1395c</color>
+    <color name="dot_dark_screen2">#14a895</color>
+    <color name="dot_dark_screen3">#2278d4</color>
+    <color name="dot_dark_screen4">#a854d4</color>
+    <color name="bg_screen5">#e7922a</color>
+    <!-- dots inactive colors -->
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#f98da5</color>
+    <color name="dot_light_screen2">#8cf9eb</color>
+    <color name="dot_light_screen3">#93c6fd</color>
+    <color name="dot_light_screen4">#e4b5fc</color>
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+    </array>
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+    </array>
+</resources>
